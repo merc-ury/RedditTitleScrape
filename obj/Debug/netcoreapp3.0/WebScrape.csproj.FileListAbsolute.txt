@@ -1,0 +1,14 @@
+/mnt/c/Users/Brandon/source/repos/WebScrape/bin/Debug/netcoreapp3.0/WebScrape
+/mnt/c/Users/Brandon/source/repos/WebScrape/bin/Debug/netcoreapp3.0/WebScrape.dll
+/mnt/c/Users/Brandon/source/repos/WebScrape/bin/Debug/netcoreapp3.0/WebScrape.pdb
+/mnt/c/Users/Brandon/source/repos/WebScrape/obj/Debug/netcoreapp3.0/WebScrape.csprojAssemblyReference.cache
+/mnt/c/Users/Brandon/source/repos/WebScrape/obj/Debug/netcoreapp3.0/WebScrape.AssemblyInfoInputs.cache
+/mnt/c/Users/Brandon/source/repos/WebScrape/obj/Debug/netcoreapp3.0/WebScrape.AssemblyInfo.cs
+/mnt/c/Users/Brandon/source/repos/WebScrape/obj/Debug/netcoreapp3.0/WebScrape.dll
+/mnt/c/Users/Brandon/source/repos/WebScrape/obj/Debug/netcoreapp3.0/WebScrape.pdb
+/mnt/c/Users/Brandon/source/repos/WebScrape/bin/Debug/netcoreapp3.0/WebScrape.deps.json
+/mnt/c/Users/Brandon/source/repos/WebScrape/bin/Debug/netcoreapp3.0/WebScrape.runtimeconfig.json
+/mnt/c/Users/Brandon/source/repos/WebScrape/bin/Debug/netcoreapp3.0/WebScrape.runtimeconfig.dev.json
+/mnt/c/Users/Brandon/source/repos/WebScrape/bin/Debug/netcoreapp3.0/HtmlAgilityPack.dll
+/mnt/c/Users/Brandon/source/repos/WebScrape/bin/Debug/netcoreapp3.0/System.Xml.XPath.XmlDocument.dll
+/mnt/c/Users/Brandon/source/repos/WebScrape/obj/Debug/netcoreapp3.0/WebScrape.csproj.CopyComplete
