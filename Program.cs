@@ -30,7 +30,7 @@ namespace WebScrape
 
             foreach (var r in redditData)
             {
-                System.Console.WriteLine("Title: {0}\nUser: {1}\nSubreddit: {2}\nThumbnail: {3}\nComments: {4}\nNSWF: {5}\n---", r.Title, r.User, r.Subreddit, r.ThumbnailUrl, r.Comments, r.NSFW);
+                System.Console.WriteLine("Title: {0}\nUser: {1}\nSubreddit: {2}\nThumbnail: {3}\nComments: {4}\nNSFW: {5}\n---", r.Title, r.User, r.Subreddit, r.ThumbnailUrl, r.Comments, r.NSFW);
             }
                 
             System.Console.WriteLine("Finished.");
